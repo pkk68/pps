@@ -17,7 +17,7 @@ _Check status of default port numbers from 31400 to 31409_
 
 - Kiểm tra đơn giản 3 cổng chính hiện tại Pi node đang dùng, đó là 31401, 31402 và 31403.
 
-_Check 3 major port numbers i.e: 31401, 31402 and 31403. _
+_Check 3 major port numbers i.e: 31401, 31402 and 31403._
 
 - Kiểm tra đầy đủ 10 cổng chính hiện tại Pi node đang dùng, đó là 31400- 31409.
 
@@ -29,7 +29,7 @@ _Optional suggest to restart docker in case of major port number 31402 is occasi
 
 - Xem thông tin phiên bản docker đang dùng.
 
-_Get current docker version. _
+_Get current docker version._
 
 ## Usage - Cách dùng
 Tải ứng dụng về máy, cụ thể lưu ở ổ đĩa C:, sau đó bấm chuột phải chọn" Run with Powershell".
@@ -38,7 +38,7 @@ _Download pps.ps1 tool then save to C: drive. Right click then choose "Run with 
 
 Lưu ý: Cần cho phép ứng dụng được phép chạy trong Powershell
 
-Note: Run as Administrator in Powershell if any.
+_Note: Run as Administrator in Powershell if any._
 
 .
 
